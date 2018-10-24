@@ -1,13 +1,13 @@
 public class Account{
 
    private int accountNumber;
-   private int balance;
+   private double balance;
    
-   public Account(){
-      this.accountNumber = 123456789;
+   public Account(int accountNumber){
+      this.accountNumber = accountNumber;
    }
    
-   public void deposit(int amount){
+   public void deposit(double amount){
    
       // The bank calculates the interest   
       // based on the interest rate and the amount just deposited,   
@@ -17,7 +17,7 @@ public class Account{
       balance = balance + amount;
    }
    
-   public void withdraw(int amount){
+   public void withdraw(double amount){
    
       // The bank puts on a fee of 10 kr. 
       // when a withdrawal is made, 
