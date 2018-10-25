@@ -2,9 +2,9 @@
 
 ## Kodeeksempler **før** Multiplicity (Arrays)
 
-* [Account.java](Account.java)
-* [Customer.java](Customer.java)
-* [MainFile.java](MainFile.java)
+* [Account.java](https://github.com/Dat18b/33_multiplicity/blob/master/Account.java)
+* [Customer.java](https://github.com/Dat18b/33_multiplicity/blob/master/Customer.java)
+* [MainFile.java](https://github.com/Dat18b/33_multiplicity/blob/master/MainFile.java)
 
 ## Kodeeksempler **Efter** Multiplicity (Arrays)
 
