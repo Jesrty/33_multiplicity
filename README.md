@@ -1,2 +1,8 @@
-# 33 Multiplicity i Domain Model, Klasse Diagram og Kode
+# 33 Multiplicity i Domænemodel, Klassediagram og Kode
+
+## Kodeeksempler før Multiplicity (Arrays)
+
+* [](Account.java)
+* [](Customer.java)
+* [](MainFile.java)
 
