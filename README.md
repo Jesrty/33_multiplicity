@@ -1,6 +1,6 @@
 # 33 Multiplicity i Domænemodel, Klassediagram og Kode
 
-https://github.com/Dat18b/33_multiplicity/blob/master/Multiplicity%20dat18b.pdf
+* [Slides](https://github.com/Dat18b/33_multiplicity/blob/master/Multiplicity%20dat18b.pdf)
 
 ## Kodeeksempler **før** Multiplicity (Arrays)
 
