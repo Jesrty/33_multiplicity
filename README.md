@@ -8,7 +8,7 @@
 
 ## Kodeeksempler **Efter** Multiplicity (Arrays)
 
-* [Account.java](/tree/multiplicity/Account.java)
-* [Customer.java](/tree/multiplicity/Customer.java)
-* [MainFile.java](/tree/multiplicity/MainFile.java)
+* [Account.java](/multiplicity/Account.java)
+* [Customer.java](/multiplicity/Customer.java)
+* [MainFile.java](/multiplicity/MainFile.java)
 
